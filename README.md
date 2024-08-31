@@ -1,16 +1,25 @@
-### Hi there 👋
+# ✨Hi! I'm Hailie
+ > A recent mathematics graduate trying to develop their skills in programming! I studied Computational Mathematics using C++, git, and Python. Currently, I am working on developing my skills in Full-stack development. Currently I am employed, and doing this as a hobby to get back into programming.
 
-<!--
-**ChaoticLee/ChaoticLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm so fr, I don't know what i'm going to make as a project... Thanks though for checking this out if you did!
+##   🔭 Learned Languages
+I have a brief understanding f the languages below. Often used in class repositories that I did not clone :sob: I used the languages to: 
+- Create 3d grpahics
+- run simple OOP games/projects
+- learn how to program
+- in groups within AI courses
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,cpp,cmake,vim,python" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning 
+- How to develop websites
+- small calculator project
+- Data Analysis methods and organization 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,html,css,bootstrap,javascript,java,powerbi,r" />
+  </a>
+</p>
