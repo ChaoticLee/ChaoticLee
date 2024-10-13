@@ -3,8 +3,8 @@
 
 I'm so fr, I don't know what i'm going to make as a project... Thanks though for checking this out if you did!
 ##   🔭 Learned Languages
-I have a brief understanding f the languages below. Often used in class repositories that I did not clone :sob: I used the languages to: 
-- Create 3d grpahics
+I have a brief understanding of the languages below. Often used in class repositories that I did not clone :sob: I used the languages to: 
+- Create 3d graphics
 - run simple OOP games/projects
 - learn how to program
 - in groups within AI courses
