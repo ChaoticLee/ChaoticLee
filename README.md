@@ -10,7 +10,7 @@ I have a brief understanding of the languages below. Often used in class reposit
 - in groups within AI courses
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,cpp,cmake,vim,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,cmake,vim,python,html,css" />
   </a>
 </p>
 
@@ -20,6 +20,6 @@ I have a brief understanding of the languages below. Often used in class reposit
 - Data Analysis methods and organization 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,html,css,bootstrap,javascript,java,powerbi,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,js,java,powerbi,r,godot,go" />
   </a>
 </p>
