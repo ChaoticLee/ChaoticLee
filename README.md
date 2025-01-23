@@ -20,6 +20,6 @@ I have a brief understanding of the languages below. Often used in class reposit
 - Data Analysis methods and organization 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,js,java,nodejs,r,godot,go,linux,c#" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,js,java,nodejs,r,godot,go,linux,csharp" />
   </a>
 </p>
