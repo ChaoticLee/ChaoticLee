@@ -1,7 +1,6 @@
 # ✨Hi! I'm Hailie
- > A recent mathematics graduate trying to develop their skills in programming! I studied Computational Mathematics using C++, git, and Python. Currently, I am working on developing my skills in Full-stack development. Currently I am employed, and doing this as a hobby to get back into programming.
+ > A recent mathematics graduate trying to develop their skills in programming! I studied Computational Mathematics using C++, git, and Python. Currently, I am working on developing my skills in Full-stack development. Currently I am employed in the medical field (non-clinical), and doing this as a hobby to get back into programming. I am currently interested in Web Development and Game Development
 
-I'm so fr, I don't know what i'm going to make as a project... Thanks though for checking this out if you did!
 ##   🔭 Learned Languages
 I have a brief understanding of the languages below. Often used in class repositories that I did not clone :sob: I used the languages to: 
 - Create 3d graphics
@@ -16,8 +15,8 @@ I have a brief understanding of the languages below. Often used in class reposit
 
 ## 🌱 Currently learning 
 - How to develop websites
-- small calculator project
-- Data Analysis methods and organization 
+- [ TBA ] 
+- [ TBA ] 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,js,java,nodejs,r,godot,linux,cs" />
