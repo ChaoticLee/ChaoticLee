@@ -15,7 +15,7 @@ I have a brief understanding of the languages below. Often used in class reposit
 
 ## 🌱 Currently learning 
 - How to develop websites
-- [ TBA ] 
+- Find Your Familiar (Game) 
 - [ TBA ] 
 <p>
   <a href="https://skillicons.dev">
