@@ -4,9 +4,12 @@
 ##   🔭 Learned Languages
 I have a brief understanding of the languages below. Often used in class repositories that I did not clone :sob: I used the languages to: 
 - Create 3d graphics
-- run simple OOP games/projects
-- learn how to program
+- run OOP games/projects
+- learn how to program using C++, CMake, Python
+- Debug with Valgrind
+- Comfortable with VIM, terminal, VSCode, and Pycharm
 - in groups within AI courses
+- 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cmake,vim,python,html,css,latex,git" />
@@ -16,7 +19,7 @@ I have a brief understanding of the languages below. Often used in class reposit
 ## 🌱 Currently learning 
 - How to develop websites
 - Find Your Familiar (Game) 
-- [ TBA ] 
+- [Anniversary Gift for my Partner ] 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,js,java,nodejs,r,godot,linux,cs" />
