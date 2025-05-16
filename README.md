@@ -9,7 +9,6 @@ I have a brief understanding of the languages below. Often used in class reposit
 - Debug with Valgrind
 - Comfortable with VIM, terminal, VSCode, and Pycharm
 - in groups within AI courses
-- 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cmake,vim,python,html,css,latex,git" />
@@ -18,10 +17,10 @@ I have a brief understanding of the languages below. Often used in class reposit
 
 ## 🌱 Currently learning 
 - How to develop websites
-- Find Your Familiar (Game) 
+- Game development
 - [Anniversary Gift for my Partner ] 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,js,java,nodejs,r,godot,linux,cs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,js,java,nodejs,r,godot,unity,linux,cs" />
   </a>
 </p>
